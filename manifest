@@ -1,0 +1,14 @@
+  "name": "Chris G Photography",
+  "short_name": "CG Photography",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://static1.squarespace.com/static/67f0075ce5256e77f4d1c1cb/t/680465abda1324295e8f8568/1745118636033/9.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
